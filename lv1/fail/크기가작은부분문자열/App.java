@@ -1,4 +1,4 @@
-package lv1.success.크기가작은부분문자열;
+package lv1.fail.크기가작은부분문자열;
 
 
 public class App {
